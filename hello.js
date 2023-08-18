@@ -8,7 +8,7 @@ console.log("Hello")
 console.log("Hello World");console.log("Hello darkness, my old friend")
 console.log("Hello World, "+"I hate it here")
 console.log(2+2)
-console.log('She said, "Bite me."')
+console.log('He said, "Not my gumdrop buttons!"')
 
 /*  
 Next, PLAY! 
